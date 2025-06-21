@@ -1,0 +1,36 @@
+# Horbix OS
+
+**Horbix OS** est un projet de système d’exploitation souverain français, conçu pour les besoins des organismes publics, des collectivités, des administrations et des infrastructures critiques. Le projet vise à fournir un environnement sécurisé, isolé, maîtrisé et compatible avec un écosystème logiciel entièrement français.
+
+## Objectif
+
+L'objectif de Horbix OS est de proposer une alternative nationale aux systèmes d'exploitation propriétaires ou dépendants de fournisseurs étrangers, en assurant un haut niveau de sécurité, de contrôle des dépendances, et de traçabilité. Le projet s’inscrit dans une logique de souveraineté numérique et de maîtrise technologique.
+
+## Fonctionnalités
+
+- Deux versions principales :
+  - **Client** : pour postes utilisateurs (administrations, écoles, collectivités)
+  - **Serveur** : pour services internes, hébergements et virtualisation
+
+- Intégration native avec des solutions françaises comme Stormshield, BlueMind, Linagora, etc.
+- Fonctionnement sur du matériel recyclé pour limiter l’empreinte environnementale.
+- Licences gratuites mais associées à un enregistrement vérifié.
+- Code source non publié publiquement sur des plateformes ouvertes (ex. GitHub) : accessible uniquement aux entités validées.
+
+## Déploiement
+
+Les dépôts de logiciels et mises à jour sont hébergés dans des datacenters français. Le projet vise à collaborer avec des TPE/PME françaises partenaires du secteur public dans le cadre de dispositifs de transformation numérique.
+
+## Développement et gouvernance
+
+Le projet est porté par une initiative indépendante, et a été présenté pour étude de faisabilité auprès d’institutions publiques. Il reste ouvert aux contributions vérifiées, dans un cadre maîtrisé.
+
+## Références
+
+*[En attente de publications presse, communiqués officiels ou mentions dans des sources secondaires]*
+
+## Voir aussi
+
+- [Souveraineté numérique]
+- [CLIP OS]
+- [Système d’exploitation sécurisé]
